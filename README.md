@@ -1,2 +1,2 @@
-###**Aplikacja zarządzania magazynem***
+### **Aplikacja zarządzania magazynem***
 **Podstawy Programowania - projekt**
